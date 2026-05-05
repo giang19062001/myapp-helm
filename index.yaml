@@ -3,12 +3,12 @@ entries:
   helm-example:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-03-30T14:50:31.026149+07:00"
+    created: "2026-05-05T09:23:19.9348212+07:00"
     description: A Helm chart for Kubernetes
-    digest: cfe61e06ed21a2a8e84580ca818b9357cb953712078ef214c391dc95b5108d3e
+    digest: 038a911d3206fd838491ba31b05f88886662779255f203ece26647d339687ef7
     name: helm-example
     type: application
     urls:
     - helm-example-0.1.0.tgz
     version: 0.1.0
-generated: "2026-03-30T14:50:31.024341+07:00"
+generated: "2026-05-05T09:23:19.9336126+07:00"
